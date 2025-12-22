@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhani Bnasal</h1>
+<h1 align="center">Hey!, I'm Suhani Bansal</h1>
 <h3 align="center">An avid tech enthusiast.</h3>
 
 - 🔭 I’m currently working on **cloud computing**
